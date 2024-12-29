@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a Computer Science Student at UofT.<br>I am interested in AI/Ml and web development.<br>I am currently working on a personal website.
+Hello, I am a Computer Science Student at UofT.<br>I am interested in AI/Ml and web development.
 
 
 ## 🌐 Socials:
