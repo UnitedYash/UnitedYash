@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Pomodoro App that tracks analytics<br>I am a first year student at University of Toronto<br>Feel free to reach out if you want to work on any projects together!
+I am a first year student at University of Toronto<br>Feel free to reach out if you want to work on any projects together!
 
 
 # 💻 Tech Stack:
