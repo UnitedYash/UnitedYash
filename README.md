@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year student at University of Toronto<br>Feel free to reach out if you want to work on any projects together!
+I am a second year student at University of Toronto<br>Feel free to reach out if you want to work on any projects together!
 
 
 # 💻 Tech Stack:
