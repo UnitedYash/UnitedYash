@@ -54,4 +54,3 @@
 <img src="https://raw.githubusercontent.com/UnitedYash/UnitedYash/output/snake.svg" alt="Snake animation" />
 
 ###
-(https://raw.githubusercontent.com/UnitedYash/UnitedYash/output/snake.svg)
