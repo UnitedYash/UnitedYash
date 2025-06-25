@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!</h2>
+[<h2 align="left">Hi 👋!</h2>
 
 ###
 
@@ -54,3 +54,4 @@
 <img src="https://raw.githubusercontent.com/UnitedYash/UnitedYash/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://raw.githubusercontent.com/UnitedYash/UnitedYash/output/snake.svg)
