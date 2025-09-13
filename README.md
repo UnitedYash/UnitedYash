@@ -1,5 +1,5 @@
-# 💫 About Me:
-Second Year CS @ UofT<br>Currently I am learning Spring boot and Cloud infrastructure<br>Interested in full-stack and back-end roles.
+### Second Year CS @ UofT<br>
+- Currently I am learning Spring boot and Cloud infrastructure<br>Interested in full-stack and back-end roles.
 
 
 # 💻 Tech Stack:
