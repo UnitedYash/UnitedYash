@@ -13,9 +13,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UnitedYash&theme=tokyonight&hide_current_streak=true" alt="GitHub Streak" />
 </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UnitedYash&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
-<br><br>
