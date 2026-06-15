@@ -5,11 +5,3 @@
 - Passionate about <span style="color:#D500F9"><b>Full-Stack</b></span> and <span style="color:#2979FF"><b>Back-End Development</b></span> 💻  
 
 
-
----
-
-## 📈 GitHub Stats
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UnitedYash&theme=tokyonight&hide_current_streak=true" alt="GitHub Streak" />
-</a>
-
